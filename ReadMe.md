@@ -7,7 +7,7 @@ Software Engineer
 A Software Engineer based in Mumbai. I specialize in Java and bring 2 years of hands-on experience to the table. I'm a confident and eager learner, always excited to explore new technologies and enhance my skills.
 
 *   🌍  I'm based in Mumbai
-*   🖥️  See my portfolio at [Archies Gurav - Portfolio](http://https://archies-gurav.vercel.app/)
+*   🖥️  See my portfolio at [Archies Gurav - Portfolio](https://archies-gurav.vercel.app/)
 *   ✉️  You can contact me at [archiesgurav10@gmail.com](mailto:archiesgurav10@gmail.com)
 *   🧠  I'm learning Cloud and DevOps
 *   🤝  I'm open to collaborating on web based projects and connect with other developers!
