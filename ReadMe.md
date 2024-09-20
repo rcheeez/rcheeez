@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Archies Gurav
 =====================================================================================================================================
 
-Software Engineer
+Full Stack Software Developer & Cloud Enthusiast
 -----------------
 
-A Software Engineer based in Mumbai. I specialize in Java and bring 2 years of hands-on experience to the table. I'm a confident and eager learner, always excited to explore new technologies and enhance my skills.
+A Full Stack Software Engineer based in Mumbai. I specialize in Java and bring 2 years of hands-on experience to the table. I'm a confident and eager learner, always excited to explore new technologies and enhance my skills.
 
 *   🌍  I'm based in Mumbai
 *   🖥️  See my portfolio at [Archies Gurav - Portfolio](https://archies-gurav.vercel.app/)
 *   ✉️  You can contact me at [archiesgurav10@gmail.com](mailto:archiesgurav10@gmail.com)
-*   🧠  I'm learning Cloud and DevOps
+*   🧠  I'm learning more about Cloud DevOps.
 *   🤝  I'm open to collaborating on web based projects and connect with other developers!
 *   ⚡  I am Software Engineer who loves to play Cricket!
   
