@@ -1,6 +1,9 @@
 # 💫 About Me:
-<br>🌍 I'm a Full Stack Developer based in Pune, originally from Mumbai.<br>✉️  Reach me at archiesgurav10@gmail.com 🛠️ Building and deploying scalable web applications with Full Stack expertise. 
-🚀 Passionate about CI/CD, containerization, and cloud solutions.<br>🤝 Open to collaborations on web-based and DevOps projects, and connecting with like-minded tech enthusiasts!  
+🌍 I'm a Full Stack Developer based in Pune, originally from Mumbai.<br>
+✉️  Reach me at archiesgurav10@gmail.com.<br>
+🛠️ Building and deploying scalable web applications with full-stack expertise.<br>
+🚀 Passionate about CI/CD, containerization, and cloud solutions.<br>
+🤝 Open to collaborations on web-based and DevOps projects, and connecting with like-minded tech enthusiasts!<br>
 ⚡ A tech enthusiast who loves cricket as much as coding!<br>
 
 
