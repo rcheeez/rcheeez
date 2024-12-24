@@ -1,5 +1,7 @@
 # 💫 About Me:
-<br>🌍  I'm from Mumbai and work in Pune.<br>✉️  You can contact me at archiesgurav10@gmail.com<br>🧠  I'm learning more about Cloud DevOps.<br>🤝  I'm open to collaborating on web-based projects and connecting with other developers!<br>⚡  I am a Software Engineer who loves to play Cricket!<br>
+<br>🌍 I'm a Full Stack Developer based in Pune, originally from Mumbai.<br>✉️  Reach me at archiesgurav10@gmail.com.<br>🛠️ Building and deploying scalable web applications with Full Stack expertise.<br>  
+🚀 Passionate about CI/CD, containerization, and cloud solutions.<br>🤝 Open to collaborations on web-based and DevOps projects, and connecting with like-minded tech enthusiasts!<br>  
+⚡ A tech enthusiast who loves cricket as much as coding!<br>
 
 
 ## 🌐 Socials:
@@ -14,5 +16,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rcheeez&icon=1&color=11)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
