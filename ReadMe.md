@@ -2,7 +2,7 @@
 
 Hi there! 👋 I'm a **DevOps Engineer** passionate about **cloud computing, automation, and infrastructure as code**. I bring a strong foundation in **software development** from my experience as a **Full Stack Java Developer**, allowing me to bridge the gap between development and operations effectively.  
 
-🔧 **Tech Stack:** Docker | Kubernetes | AWS | Terraform | CI/CD | Linux | GitHub Actions | Java  
+🔧 **Tech Stack:** Docker | Kubernetes | AWS | Terraform | CI/CD | Linux | Jenkins | Java  
 
 ⚡ **What I Do:**  
 - **Automate** and optimize CI/CD pipelines for seamless deployments.  
