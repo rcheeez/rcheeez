@@ -1,17 +1,17 @@
-### 🚀 DevOps Engineer | Cloud & Automation Enthusiast  
+### 🚀 Cloud Engineer & DevOps | Infrastructure & Automation Enthusiast  
 
-Hi there! 👋 I'm a **DevOps Engineer** passionate about **cloud computing, automation, and infrastructure as code**. I bring a strong foundation in **software development** from my experience as a **Full Stack Java Developer**, allowing me to bridge the gap between development and operations effectively.  
+Hi there! 👋 I’m a Cloud Engineer passionate about building secure, reliable, and scalable cloud environments. With a background in software development, I bring a developer’s perspective to infrastructure — focusing on simplicity, automation, and performance.
 
-🔧 **Tech Stack:** Docker | Kubernetes | AWS | Terraform | CI/CD | Linux | Jenkins | Java  
+🔧 **Tech Stack:** AWS | Azure | DigitalOcean | Docker | Terraform | GitHub Actions | GitLab CI | Linux | Java | Python   
 
 ⚡ **What I Do:**  
-- **Automate** and optimize CI/CD pipelines for seamless deployments.  
-- **Build and manage** cloud-native architectures with AWS, Kubernetes, and Terraform.  
-- **Ensure reliability, security, and scalability** of infrastructure using best DevOps practices.  
-- **Leverage my coding background** to enhance automation and streamline workflows.  
+- Design and manage cloud infrastructure that supports modern applications.  
+- Automate deployments and workflows using Terraform and CI/CD pipelines.  
+- Improve reliability, security, and performance of systems across multi-cloud environments.  
+- Leverage coding skills to reduce manual work and streamline operations.
 
 📢 **Let’s Connect!**  
-I'm always eager to collaborate on **DevOps and cloud projects** and exchange ideas with fellow engineers. Let’s build something amazing!  
+I’m always open to collaborating on cloud, automation, and infrastructure projects. Let’s build systems that scale and last.
 
 📧 **Email:** archiesgurav10@gmail.com
 
