@@ -1,4 +1,4 @@
-### 🚀 Cloud Engineer & DevOps | Infrastructure & Automation Enthusiast  
+### 🚀 Cloud Engineer & DevOps
 
 Hi there! 👋 I’m a Cloud Engineer passionate about building secure, reliable, and scalable cloud environments. With a background in software development, I bring a developer’s perspective to infrastructure — focusing on simplicity, automation, and performance.
 
