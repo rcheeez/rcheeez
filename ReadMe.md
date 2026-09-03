@@ -4,16 +4,33 @@ Hi there! 👋 I’m a Cloud Engineer passionate about building secure, reliable
 
 🔧 **Tech Stack:** AWS | Azure | DigitalOcean | Docker | Terraform | GitHub Actions | GitLab CI | Linux | Java | Python   
 
+## ☁️ What I Work With
+
+- Cloud: AWS, Azure, DigitalOcean, GCP
+- CI/CD: Jenkins, GitLab CI, GitHub Actions
+- Containers: Docker, Kubernetes
+- Monitoring: CloudWatch, Prometheus, Grafana, Dynatrace
+- Automation: Bash, Python
+- Version Control: Git, GitHub, GitLab
+- Infrastructure: Linux, Nginx
+- DevOps Practices: CI/CD, GitOps, Infrastructure as Code, DevSecOps
+
+---
+
 ⚡ **What I Do:**  
-- Design and manage cloud infrastructure that supports modern applications.  
-- Automate deployments and workflows using Terraform and CI/CD pipelines.  
-- Improve reliability, security, and performance of systems across multi-cloud environments.  
-- Leverage coding skills to reduce manual work and streamline operations.
+- Support and manage cloud infrastructure and production environments
+- Build and maintain CI/CD pipelines
+- Automate repetitive operational tasks using Bash and Python
+- Monitor infrastructure and applications using modern observability tools
+- Troubleshoot production issues and perform root-cause analysis
+- Work with containers and Kubernetes-based deployments
+- Improve infrastructure reliability, security, and performance
+- Build personal projects to explore Infrastructure as Code and DevOps automation
 
 📢 **Let’s Connect!**  
 I’m always open to collaborating on cloud, automation, and infrastructure projects. Let’s build systems that scale and last.
 
-📧 **Email:** archiesgurav10@gmail.com
+📧 **Email:** hello@archiesgurav.in
 
 
 ## 🌐 Socials:
